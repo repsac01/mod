@@ -1,0 +1,17 @@
+abbreviation: NE
+available: false
+classes: 32
+colour: 1
+id: 0
+label: NEWC
+longName: diamant
+name: diamant
+penaltyLength: 255
+penaltyLowerBound: 0
+price: 20560
+sprite:
+  filename: cargoes/diamant.png
+  left: 0
+  top: 0
+unitName: Crates
+weight: 16

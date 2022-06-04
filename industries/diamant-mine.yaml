@@ -1,0 +1,46 @@
+available: false
+callbacks: ''
+cargoAcceptance: []
+cargoProduction:
+- NEWC
+colour: 1
+fundCostMultiplier: 100
+id: 0
+layout:
+- - - 0
+    - 0
+  - - 0
+    - 0
+name: diamant mine
+placement: anywhere
+probabilityInGame: 5
+probabilityMapGen: 3
+prospectChance: 75
+tiles:
+- sprites:
+  - alwaysDraw: true
+    drawType: recolour
+    sprite:
+      filename: industries/diamant-mine/2.png
+      left: -31
+      top: 0
+  - alwaysDraw: false
+    drawType: recolour
+    sprite:
+      filename: industries/diamant-mine/1.png
+      left: 6
+      top: -4
+- sprites:
+  - alwaysDraw: true
+    drawType: recolour
+    sprite:
+      filename: industries/diamant-mine/4.png
+      left: -31
+      top: 0
+  - alwaysDraw: false
+    drawType: recolour
+    sprite:
+      filename: industries/diamant-mine/3.png
+      left: -31
+      top: 0
+type: primary
